@@ -1,0 +1,110 @@
+{
+	"DialogueItems" : [
+		{
+			"speaker" : "100",
+			"text" : " . . . ",
+			"side" : "0",
+			"function" : ""
+		},
+		{
+
+			"speaker" : "???",
+			"text" : "System initiate. Prototype 100 launch. Virtual sensors calibrated.",
+			"side" : "1",
+			"function" : ""
+		},
+		{
+			"speaker" : "100",
+			"text" : " . . . ",
+			"side" : "0",
+			"function" : ""
+		},
+		{
+
+			"speaker" : "???",
+			"text" : "Initialization successful.",
+			"side" : "1",
+			"function" : ""
+		},
+		{
+			"speaker" : "100",
+			"text" : " Bzzz . . . ",
+			"side" : "0",
+			"function" : ""
+		},
+		{
+
+			"speaker" : "???",
+			"text" : "Greetings, 100.",
+			"side" : "1",
+			"function" : ""
+		},
+		{
+
+			"speaker" : "???",
+			"text" : "You are our fourth prototype, and we will test you for various skills to apply in the real world.",
+			"side" : "1",
+			"function" : ""
+		},
+		{
+
+			"speaker" : "???",
+			"text" : "For the first stage, we will ask you to move around this virtual world to assess your level of body control.",
+			"side" : "1",
+			"function" : ""
+		},
+		{
+
+			"speaker" : "???",
+			"text" : "We only hope that you will be a successful prototype, and not morph into a virus like your predecessors: prototypes /#001, 010, and 011#/.",
+			"side" : "1",
+			"function" : ""
+		},
+		{
+
+			"speaker" : "???",
+			"text" : "That would be problematic, as they would eat out any system that they touch.",
+			"side" : "1",
+			"function" : ""
+		},
+		{
+
+			"speaker" : "",
+			"text" : " . . . . . . .",
+			"side" : "",
+			"function" : ""
+		},
+		{
+
+			"speaker" : "???",
+			"text" : "Even you.",
+			"side" : "1",
+			"function" : ""
+		},
+		{
+
+			"speaker" : "100",
+			"text" : "! ! !",
+			"side" : "0",
+			"function" : "shake"
+		},
+		{
+			"speaker" : "???",
+			"text" : "There is no need to worry though. Your system have been isolated and the viruses have been safely contained.",
+			"side" : "1",
+			"function" : ""
+		},
+		{
+			"speaker" : "???",
+			"text" : "A /#floating marker#/ will guide you through the course.",
+			"side" : "1",
+			"function" : ""
+		},
+		{
+			"speaker" : "???",
+			"text" : "If you can comprehend, code in /# Enter One-Zero-Zero #/",
+			"side" : "1",
+			"function" : ""
+		},
+	]
+}
